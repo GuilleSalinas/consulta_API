@@ -1,0 +1,23 @@
+*{
+    padding: 0;
+    border: 0;
+    box-sizing: border-box;
+}
+
+.cursor:hover{
+    color: #ff0000;
+    cursor: pointer;
+}
+
+.nn{
+    display: flex;
+    align-items: center;
+    justify-content: start;
+    height: 25px;
+    
+}
+
+.nn p{
+    font-size: 17px;
+    padding: 0 10px 0 0 ;
+}
